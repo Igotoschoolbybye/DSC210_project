@@ -33,3 +33,13 @@ MATLAB results
 
 ![Figure_1](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/5b36225c-f0ee-4115-af19-ef9bef2913ce)
 ![Figure_2](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/0af6e9b5-0500-4d6f-9d6f-e7be641e6e79)
+
+Linear Algebra Part - 
+
+There are also 4 scripts -
+1. Linear Regression in Python (which also contains the JIT implementation).
+2. Linear Regression in Python Linear Algebra version.
+3. dsc210fitlm.m which contains the inbuilt implementation of linear regression 'fitlm' in MATLAB.
+4. dsc210LA.m which contains the linear algebra closed form implementation for MATLAB.
+
+Most of the respective runtimes have been stored as text with the python notebooks, and have also been added to the project report.
