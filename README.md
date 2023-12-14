@@ -20,3 +20,11 @@ Python results
 ![r_mona](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/4492f1cb-263f-4687-9905-2019bceb0d06)
 ![r_l](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/3ed7cd27-1152-4cbd-ba5c-568b80be3865)
 ![r_h](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/079cddc1-08dd-4d4a-925d-4316f90aae61)
+
+MATLAB results
+![matlab_mona](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/94148111-64d2-47b3-b16b-25b7ec342599)
+![matlab_low](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/9f718ada-3c86-4dd5-aaf8-814e549e2826)
+![MATLAB](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/5ee7bac4-e294-4126-ba7c-b65783d1384d)
+
+![Figure_1](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/5b36225c-f0ee-4115-af19-ef9bef2913ce)
+![Figure_2](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/0af6e9b5-0500-4d6f-9d6f-e7be641e6e79)
