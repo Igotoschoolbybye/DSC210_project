@@ -3,6 +3,7 @@ The final project in DSC210
 SVD part
 For the image processing part of svd, we used matlab and python libraries to complete the task, thereby comparing the running times in different languages ​​and different image types.
 In this experiment, we selected three types of images: a portrait of a person, a low-frequency indoor image, and a high-frequency natural landscape image.
+
 Results：
 ![Mona](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/47ce6201-b210-4cb1-8be8-086015235abc)
 Human Portraits: These images usually require high fidelity in details and colors, especially for facial features.
