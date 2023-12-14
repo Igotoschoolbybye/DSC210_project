@@ -1,5 +1,7 @@
 # Project: Comparative Analysis of Linear Algebra in MATLAB and Python
 The final project in DSC210
+
+
 SVD part
 For the image processing part of svd, we used matlab and python libraries to complete the task, thereby comparing the running times in different languages ​​and different image types.
 In this experiment, we selected three types of images: a portrait of a person, a low-frequency indoor image, and a high-frequency natural landscape image.
@@ -17,11 +19,13 @@ Low-frequency Indoor Images: Such images often contain smoother regions and fewe
 High-frequency Natural Scenery Images: These types of images usually have a lot of details and complex textures, posing higher demands on the fidelity of the compression algorithm.
 
 Python results
+
 ![r_mona](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/4492f1cb-263f-4687-9905-2019bceb0d06)
 ![r_l](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/3ed7cd27-1152-4cbd-ba5c-568b80be3865)
 ![r_h](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/079cddc1-08dd-4d4a-925d-4316f90aae61)
 
 MATLAB results
+
 ![matlab_mona](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/94148111-64d2-47b3-b16b-25b7ec342599)
 ![matlab_low](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/9f718ada-3c86-4dd5-aaf8-814e549e2826)
 ![MATLAB](https://github.com/Igotoschoolbybye/DSC210_project/assets/87763340/5ee7bac4-e294-4126-ba7c-b65783d1384d)
